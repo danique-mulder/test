@@ -1,0 +1,16 @@
+/var/spool/slurm/slurmd/job475269/slurm_script: line 10: cd: /gpfs/work2/0/multifac/IMpACT/Epigenetics/epigenetics_IMpACT_EPIC/Spain/datafromtetyana: Permission denied
+Fatal error: cannot open file 'ewas_10PC_15SV.R': No such file or directory
+
+JOB STATISTICS
+==============
+Job ID: 475269
+Cluster: snellius
+User/Group: dmulder/dmulder
+State: FAILED (exit code 2)
+Nodes: 1
+Cores per node: 64
+CPU Utilized: 00:00:02
+CPU Efficiency: 0.040f 01:23:12 core-walltime
+Job Wall-clock time: 00:01:18
+Memory Utilized: 2.49 MB
+Memory Efficiency: 0.000f 468.75 GB
