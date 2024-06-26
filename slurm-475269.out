@@ -1,6 +1,8 @@
 /var/spool/slurm/slurmd/job475269/slurm_script: line 10: cd: /gpfs/work2/0/multifac/IMpACT/Epigenetics/epigenetics_IMpACT_EPIC/Spain/datafromtetyana: Permission denied
 Fatal error: cannot open file 'ewas_10PC_15SV.R': No such file or directory
 
+test version control
+
 JOB STATISTICS
 ==============
 Job ID: 475269
